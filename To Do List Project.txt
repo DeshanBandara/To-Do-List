@@ -1,0 +1,3 @@
+To Do List Project
+
+1. npm create vite@latest
