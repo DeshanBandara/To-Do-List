@@ -1,4 +1,4 @@
-import React, from 'react'
+import React, {useState} from 'react'
 import axios from 'axios'
 
 function Create() {
@@ -16,4 +16,4 @@ function Create() {
     )
 }
 
-export default Creat
+export default Create
