@@ -1,3 +1,9 @@
 To Do List Project
 
 1. npm create vite@latest
+2. npm install
+3. npm install axios react-icons
+4. npm run dev
+5. New react app (http://localhost:5173/)
+6. npm init -y
+7. npm install express mongoose
